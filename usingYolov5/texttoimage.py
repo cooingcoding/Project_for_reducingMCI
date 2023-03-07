@@ -33,6 +33,7 @@ dataset = project.version(2).download("yolov5")
 !python train.py --img 640 --batch 32 --epochs 3000 --data /content/data.yaml --weights yolov5l.pt --cache --patience 10
 ##patience (=earlystopping)
 
+
 # train 그래프
 Image('/yolov5/runs/train/exp4/results.png')
 
