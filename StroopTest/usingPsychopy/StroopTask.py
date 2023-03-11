@@ -61,3 +61,4 @@ print(trials)
 
 # 결과 저장
 trials.saveAsExcel(fileName='stroop_results',sheetName = 'rawData', stimOut=[], dataOut=['all_raw'])
+
