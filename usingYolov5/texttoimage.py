@@ -191,4 +191,3 @@ Image('/yolov5/runs/detect/exp56/게일지도.png')
 - 수류탄
 - 사과
 """
-
